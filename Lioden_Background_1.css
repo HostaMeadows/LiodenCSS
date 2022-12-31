@@ -170,7 +170,7 @@ border-right: 1px solid #000;
 /* Sidebar */
   
 .sidebar {
-background: rgba(128, 60, 93, 0.36);
+background: rgba(193, 231, 227, 0.46);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -178,7 +178,7 @@ color: #000;
 }
   
 .col-md-3 .panel {
-background: rgb(128, 60, 93);
+background: rgb(193, 231, 227);
 border: 1px solid #000;
 box-shadow: none;    
 }

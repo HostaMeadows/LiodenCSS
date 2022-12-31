@@ -143,7 +143,7 @@ border: 1px solid #000;
 /* Navigational Bar */
   
 .main {
-background: rgba(220, 255, 251, 0.46);
+background: rgba(220, 255, 251, 0.54);
 border: 1px solid #000;
 box-shadow: none;
 }
@@ -170,7 +170,7 @@ border-right: 1px solid #000;
 /* Sidebar */
   
 .sidebar {
-background: rgba(193, 231, 227, 0.46);
+background: rgba(193, 231, 227, 0.64);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -178,17 +178,17 @@ color: #000;
 }
   
 .col-md-3 .panel {
-background: rgb(128, 60, 93);
+background: rgb(193, 187, 221);
 border: 1px solid #000;
 box-shadow: none;    
 }
   
 .progress-bar {
-background: #A86882;
+background: #FFDCF4;
 }
   
 .progress {
-background: #F3E3FE;
+background: #DABFDE;
 border: 1px solid #000;
 }
   
@@ -196,7 +196,7 @@ border: 1px solid #000;
 /* Chat */
   
 .chat_light, .chat_dark {
-background: rgb(128, 60, 93);
+background: rgb(193, 187, 221);
 font-size: 11px;
 color: #000;
 }
@@ -211,13 +211,13 @@ background: none;
  
 .alert-danger {
 color: #000;
-background: rgb(128, 60, 93);
+background: rgb(255, 220, 244);
 border: 1px solid #000;
 }
  
 .alert-success {
 color: #000;
-background: rgb(128, 60, 93);
+background: rgb(220, 255, 251);
 border: 1px solid #000;
 }
  
@@ -251,7 +251,7 @@ border: 1px solid #000;
   
 .table, .item {
 border: 1px solid #000;
-background: #803C5D;
+background: #C1BBDD;
 border-collapse: separate;
 }
  
@@ -262,7 +262,7 @@ border: 0px solid #000;
  
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #A86882;
+background: #DABFDE;
 color: #000;
 }
  

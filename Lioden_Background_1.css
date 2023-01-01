@@ -1,5 +1,5 @@
 div.box1 {
-background:#b4faf9;
+background:#7bb5af;
 text-align:center;
 color:black;
 width:700px;
@@ -35,7 +35,7 @@ overflow:hidden;
 }
 
 .box2:hover {
-background:#803C5D;
+background:#7bb5af;
 text-align:center;
 color:black;
 width:700px;
@@ -47,7 +47,7 @@ overflow:auto;
 }
 
 div.box3 {
-background:#803C5D;
+background:#7bb5af;
 text-align:center;
 color:black;
 width:700px;
@@ -59,7 +59,7 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:#803C5D;
+background:#7bb5af;
 text-align:center;
 color:black;
 width:700px;
@@ -71,7 +71,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:#803C5D;
+background:#7bb5af;
 color:black;
 border:1px solid black;
 position:fixed;
@@ -105,7 +105,7 @@ border-bottom: 1px solid #000;
  
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #803C5D;
+background: #7bb5af;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;

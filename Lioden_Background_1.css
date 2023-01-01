@@ -1,5 +1,5 @@
 div.box1 {
-background:#68edeb;
+background:#b4faf9;
 text-align:center;
 color:black;
 width:700px;
@@ -11,7 +11,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:#803C5D;
+background:#7bb5af;
 text-align:center;
 color:black;
 width:700;
@@ -23,7 +23,7 @@ overflow:auto;
 }
 
 div.box2 {
-background:#803C5D;
+background:#7bb5af;
 text-align:center;
 color:black;
 width:700px;
